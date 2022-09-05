@@ -1,10 +1,10 @@
 ---
 name: User Story
-about: AS USER
+about: AS LOGGED-IN USER
 title: ''
 labels: ''
-assignees: ''
+assignees: VilmaTuresson
 
 ---
 
-As a user, I can **do** so that I can **this**
+As a logged-in user, I can **do** so that I can **that**
