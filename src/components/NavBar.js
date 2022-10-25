@@ -1,6 +1,6 @@
 import React from 'react'
 import { Navbar, Container, Nav, NavDropdown, FormControl, Form, Button} from 'react-bootstrap'
-import styles from '../App.module.css';
+import styles from '../NavBar.module.css';
 
 const NavBar = () => {
   return (
